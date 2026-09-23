@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/alloverzyt/Documents/trae_projects/C-Cpp-2026/level1/p04_hanoi",
-      "program": "c:/Users/alloverzyt/Documents/trae_projects/C-Cpp-2026/level1/p04_hanoi/build/Debug/outDebug",
+      "cwd": "c:/Users/alloverzyt/Documents/trae_projects/C-Cpp-2026/level1/p05_maze",
+      "program": "c:/Users/alloverzyt/Documents/trae_projects/C-Cpp-2026/level1/p05_maze/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
